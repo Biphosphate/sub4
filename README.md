@@ -1,0 +1,1 @@
+random project that scraped data from databases to find the number of physicians in the US who also run a sub 4 mile. One problem was that many of the names that were flagged were falsely flagged and I had to manually sift through them.
